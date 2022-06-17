@@ -1,1 +1,2 @@
 # psikoloji
+psikoloji.netlify.app
