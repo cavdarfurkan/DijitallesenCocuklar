@@ -21,12 +21,18 @@ hr {
     background-color: beige;
 }
 
-.card {
+#konular .card {
     flex-direction: row;
 }
 
-.card img {
+#konular .card img {
     width: 18rem;
+}
+
+.rounded-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
 
 #top-button {
