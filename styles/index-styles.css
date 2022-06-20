@@ -45,8 +45,10 @@ hr {
     /* padding: 10px; Some padding */
     border-radius: 50%; /* Rounded corners */
     font-size: 18px; /* Increase font size */
+    opacity: 0.5;
   }
   
   #top-button:hover {
-    background-color: #c2c2aa; /* Add a dark-grey background on hover */
+    /* background-color: #c2c2aa; Add a dark-grey background on hover */
+    opacity: 1.0;
   }
