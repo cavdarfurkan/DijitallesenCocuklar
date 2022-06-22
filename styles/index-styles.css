@@ -1,4 +1,4 @@
-hr { 
+hr {
     display: block;
     margin-top: 1.0em;
     margin-bottom: 1.0em;
@@ -10,7 +10,7 @@ hr {
     background-color: black;
 }
 
-  
+
 #parallelogram {
     width: 90%;
     height: 100px;
@@ -34,27 +34,3 @@ hr {
     height: 100px;
     border-radius: 50%;
 }
-
-#top-button {
-    display: none; /* Hidden by default */
-    position: fixed; /* Fixed/sticky position */
-    bottom: 30px; /* Place the button at the bottom of the page */
-    right: 30px; /* Place the button 30px from the right */
-    z-index: 99; /* Make sure it does not overlap */
-    border: 1px solid black; /* Remove borders */
-    outline: none; /* Remove outline */
-    background-color: transparent; /* Set a background color */
-    color: black; /* Text color */
-    cursor: pointer; /* Add a mouse pointer on hover */
-    width: 40px;
-    height: 40px;
-    /* padding: 10px; Some padding */
-    border-radius: 50%; /* Rounded corners */
-    font-size: 18px; /* Increase font size */
-    opacity: 0.5;
-  }
-  
-  #top-button:hover {
-    /* background-color: #c2c2aa; Add a dark-grey background on hover */
-    opacity: 1.0;
-  }

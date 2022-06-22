@@ -17,8 +17,8 @@
 }
 
 .square-clip {
-    width: 100px;
-    height: 100px;
+    width: 98px;
+    height: 98px;
     object-fit: cover;
 }
 
@@ -31,12 +31,26 @@
     font-size: 18px;
 }
 
-li {
+#custom-list li {
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 10px;
 }
 
-.references li {
+/* .references li {
     list-style-type: '- ';
+} */
+
+#right-sec a {
+    text-decoration: none;
+    color: black;
+}
+
+#right-sec a:hover{
+    background-color: whitesmoke;
+}
+
+.c-font-lh {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;
 }
