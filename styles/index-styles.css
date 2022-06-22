@@ -14,11 +14,7 @@ hr {
 #parallelogram {
     width: 90%;
     height: 100px;
-    /* transform: skew(-20deg); */
-    border-style: solid;
-    border-width: 0px 0px 0px 10px;
-    border-color: #c2c2aa;
-    background-color: beige;
+    background-color: #EEEFF0;
 }
 
 #konular .card {
@@ -26,11 +22,34 @@ hr {
 }
 
 #konular .card img {
-    width: 18rem;
+    width: 14rem;
 }
 
 .rounded-circle {
     width: 100px;
     height: 100px;
     border-radius: 50%;
+}
+
+.c-font-lh {
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.5;
+}
+
+.fs-18px {
+    font-size: 18px;
+}
+
+.square-clip {
+    width: 10%;
+    /* height: 100px; */
+    object-fit: cover;
+}
+
+#c-header {
+    background-color: #EEEFF0;
+}
+
+#c-footer {
+    background-color: #EEEFF0;
 }

@@ -7,15 +7,6 @@
     color: black;
 }
 
-#parallelogram {
-    width: 90%;
-    height: 100px;
-    border-style: solid;
-    border-width: 0px 0px 0px 10px;
-    border-color: gray;
-    background-color: whitesmoke;
-}
-
 .square-clip {
     width: 98px;
     height: 98px;
@@ -53,4 +44,12 @@
 .c-font-lh {
     font-family: "Times New Roman", Times, serif;
     line-height: 1.5;
+}
+
+#c-header {
+    background-color: #EEEFF0;
+}
+
+#c-footer {
+    background-color: #EEEFF0;
 }
