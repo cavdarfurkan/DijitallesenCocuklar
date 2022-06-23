@@ -1,2 +1,2 @@
 # psikoloji
-psikoloji.netlify.app
+dijitallesencocuklar.netlify.app
